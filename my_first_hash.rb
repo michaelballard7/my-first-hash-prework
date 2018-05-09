@@ -12,9 +12,6 @@ def shipping_manifest
     "porcelain vases" => 2,
     "oil paintings" => 3
   }
-  # fill that hash with key/value pairs that describe the following information: 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-
 
 end
 
